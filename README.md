@@ -15,54 +15,45 @@
 <h3 align="left">AI & Data Stack:</h3>
 <p align="left">
 
-<!-- Python -->
 <a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<!-- NumPy -->
 <a href="https://numpy.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
 </a>
 
-<!-- Pandas -->
 <a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </a>
 
-<!-- PyTorch -->
 <a href="https://pytorch.org/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
 </a>
 
-<!-- Scikit-learn -->
 <a href="https://scikit-learn.org/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
 </a>
 
-<!-- OpenCV -->
 <a href="https://opencv.org/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
 </a>
 
-<!-- Matplotlib -->
 <a href="https://matplotlib.org/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/>
 </a>
 
-<!-- Seaborn -->
 <a href="https://seaborn.pydata.org/" target="_blank">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
 </a>
 
-<!-- PostgreSQL -->
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 </a>
 
 </p>
 
-<h3 align="left">Web Support:</h3>
+<h3 align="left">Application / Deployment:</h3>
 <p align="left">
 
 <a href="https://www.w3.org/html/" target="_blank">
@@ -75,6 +66,10 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://flutter.dev/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
 </a>
 
 </p>
