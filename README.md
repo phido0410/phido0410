@@ -12,20 +12,20 @@
 
 ---
 
-## 👋 About me
+## About me
 
 I build **LLM applications that can be trusted in production** — systems where the model proposes and explains, deterministic services compute the numbers, and independent validators decide what is allowed.
 
-- 🧠 Focus: **LLM agents, RAG, multi-agent systems, LLM evaluation & guardrails**
-- 🏭 Currently: core engineer on **FactoryFlow**, an AI-assisted scheduling & incident-recovery system for manufacturing (AI20K Build Phase)
-- 📈 Background: machine learning, **time-series forecasting** and computer vision
-- 🐍 Main language: **Python**
+- Focus: **LLM agents, RAG, multi-agent systems, LLM evaluation & guardrails**
+- Currently: core engineer on **FactoryFlow**, an AI-assisted scheduling & incident-recovery system for manufacturing (AI20K Build Phase)
+- Background: machine learning, **time-series forecasting** and computer vision
+- Main language: **Python**
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
-### 🏭 [FactoryFlow](https://github.com/AI20K-Build-Phase-Cohort-4/P-022) — AI-assisted production scheduling *(team of 4, in progress)*
+### [FactoryFlow](https://github.com/AI20K-Build-Phase-Cohort-4/P-022) — AI-assisted production scheduling *(team of 4, in progress)*
 Scheduling and incident-recovery assistant for a multi-stage cement plant. **AI suggests, deterministic services compute, an independent validator decides, humans approve every write.**
 - Recovery Planner: rule-based plans + LLM explanations with **server-side number verification** and rule fallback; two-phase response (rule plan shown instantly, AI explanation follows).
 - Constraint-based scheduler with **Google OR-Tools CP-SAT** (precedence, cumulative resources, materials, time windows); 191-job overhaul scenario solved to OPTIMAL.
@@ -33,7 +33,7 @@ Scheduling and incident-recovery assistant for a multi-stage cement plant. **AI 
 
 `Python` `FastAPI` `Pydantic` `LangChain` `OpenAI` `OR-Tools` `SQLAlchemy` `React` `pytest`
 
-### 📊 [VN30 Foundation-Model Forecasting](https://github.com/phido0410/fm-finance-forecasting) — research *(team)*
+### [VN30 Foundation-Model Forecasting](https://github.com/phido0410/fm-finance-forecasting) — research *(team)*
 Benchmark of **TimesFM, Chronos-2, Moirai-2** vs. ARIMA/LSTM for 1-day-ahead returns on Vietnamese stocks, plus **LEAF**, a lightweight regime-aware router over frozen foundation models — the only model with positive IC on the 2024–2025 test set.
 - My part: LSTM baseline, VN30 data collection, zero-shot TimesFM & Chronos-2 experiments.
 
@@ -41,7 +41,7 @@ Benchmark of **TimesFM, Chronos-2, Moirai-2** vs. ARIMA/LSTM for 1-day-ahead ret
 
 ---
 
-## 🎓 AI20K — hands-on labs (VinUni, Cohort 4)
+## AI20K — hands-on labs (VinUni, Cohort 4)
 
 Intensive AI engineering program: one lab per day, each with tests, rubric and evidence-based grading.
 
@@ -58,7 +58,7 @@ Intensive AI engineering program: one lab per day, each with tests, rubric and e
 
 ---
 
-## 🛠 Tech stack
+## Tech stack
 
 **LLM & Agents**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
