@@ -4,6 +4,7 @@
 
 **Data Science student @ Hanoi University of Mining and Geology · AI20K Build Phase (Cohort 4)**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-phido0410-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phido0410/)
 [![Email](https://img.shields.io/badge/phido3107@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:phido3107@gmail.com)
 [![GitHub](https://img.shields.io/badge/phido0410-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phido0410)
 
