@@ -26,8 +26,6 @@ I build **LLM applications that can be trusted in production** — systems where
 ## Featured projects
 
 ### [FactoryFlow](https://youtu.be/FMUoExqVCjs) — AI agent for production order orchestration *(team of 4 · Demo Day, Oct 2026)*
-[![FactoryFlow demo video](https://img.youtube.com/vi/FMUoExqVCjs/hqdefault.jpg)](https://youtu.be/FMUoExqVCjs)
-
 AI agent that orchestrates production orders for a 6-stage cement plant, grounded in a field study of a real plant (347 of 361 assets from anonymized plant data). **The agent proposes, CP-SAT computes, a 10-constraint validator checks, and a human approves every write.**
 - Dispatcher and proactive monitor agents in a LangGraph flow with human-in-the-loop approval; rule fallback keeps it running with AI off (plan in ≤111 ms).
 - CP-SAT scheduler (OR-Tools) re-plans shifts against 3 objectives: on time, keep the kiln running, fewest changes.
