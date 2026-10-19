@@ -60,6 +60,7 @@ Benchmark of **TimesFM, Chronos-2, Moirai-2** vs. ARIMA/LSTM for 1-day-ahead ret
 
 **LLM & Agents**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
@@ -71,11 +72,12 @@ Benchmark of **TimesFM, Chronos-2, Moirai-2** vs. ARIMA/LSTM for 1-day-ahead ret
 ![RAGAS](https://img.shields.io/badge/RAGAS-4B32C3?style=flat-square)
 ![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square)
 
-**ML & Optimization**
+**ML, Vision & Optimization**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OR-Tools](https://img.shields.io/badge/OR--Tools%20CP--SAT-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Backend & Tools**
@@ -85,6 +87,5 @@ Benchmark of **TimesFM, Chronos-2, Moirai-2** vs. ARIMA/LSTM for 1-day-ahead ret
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
